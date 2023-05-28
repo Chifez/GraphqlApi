@@ -5,6 +5,15 @@ const dataList = [
     username: "emmy",
     age: 20,
     nationality: "canada",
+    friends: [
+      {
+        id: 3,
+        name: "emmanuel shukalr",
+        username: "emmy",
+        age: 20,
+        nationality: "canada",
+      },
+    ],
   },
   {
     id: 2,
@@ -12,6 +21,15 @@ const dataList = [
     username: "emmy",
     age: 20,
     nationality: "canada",
+    friends: [
+      {
+        id: 3,
+        name: "emmanuel shukalr",
+        username: "emmy",
+        age: 20,
+        nationality: "canada",
+      },
+    ],
   },
   {
     id: 3,
